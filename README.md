@@ -1,5 +1,5 @@
 # synthetic-faces.github.io
 
-### LEZGO TEST
+### TITLE 1
 ## TITLE 2
 # TITLE 3
