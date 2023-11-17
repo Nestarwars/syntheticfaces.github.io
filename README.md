@@ -1,5 +1,9 @@
-# synthetic-faces.github.io
+# Des visages synthetiques pour une base de données éthique ?
 
-### TITLE 1
-## TITLE 2
-# TITLE 3
+# La base de données
+
+## Les motivations
+
+## Les moyens
+
+## La mise en oeuvre
